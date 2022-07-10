@@ -8,3 +8,7 @@
 *.config
 *.dll
 *.pdb
+*.cache
+*.targets
+*.props
+*.json
