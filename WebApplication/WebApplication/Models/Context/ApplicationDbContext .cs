@@ -2,7 +2,7 @@
 
 namespace WebApplication.Models.Context
 {
-    public partial class ApplicationDbContext: DbContext
+    public class ApplicationDbContext: DbContext
     {
         public ApplicationDbContext()
         {
