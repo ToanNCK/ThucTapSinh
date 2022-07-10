@@ -5,3 +5,6 @@
 /WebApplication/.vs/WebApplication/DesignTimeBuild
 *.v1
 *.suo
+*.config
+*.dll
+*.pdb
