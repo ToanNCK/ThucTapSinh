@@ -12,3 +12,5 @@
 *.targets
 *.props
 *.json
+/WebApplication/WebApplication/bin/Debug/netcoreapp3.1
+/WebApplication/WebApplication/obj/Debug/netcoreapp3.1
